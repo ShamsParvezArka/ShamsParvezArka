@@ -1,6 +1,6 @@
 ## About me
-Hi, I’m Shams Parvez Arka. I'm a *Competitive programmer* and a college student in Bangladesh. I’m interested in math & programming.
-> I’m currently learning Assembly and Linux karnel
+Hi. I’m Shams Parvez Arka, *Competitive programmer* and a college student in Bangladesh. I’m interested in math & programming.
+> Currently I'm learning Assembly and Linux karnel
 
 follow me on [Instagram](https://www.instagram.com/shams_parvez_arka)
 <hr>
