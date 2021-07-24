@@ -9,7 +9,7 @@ follow me on [Instagram](https://www.instagram.com/shams_parvez_arka)
 <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/><img src="https://img.icons8.com/plasticine/57/000000/bash.png"/>
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=ShamsParvezArka&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=ShamsParvezArka&show_icons=true&theme=default)
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsParvezArka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
 
 
