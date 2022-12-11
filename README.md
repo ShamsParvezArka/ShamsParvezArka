@@ -5,7 +5,7 @@ Hi. I’m Shams Parvez Arka, *Competitive programmer*. I’m interested in math 
 <hr>
 
 ## My languages
-<img src="https://img.icons8.com/color/50/000000/c-programming.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/><img src="https://icons8.com/icon/108784/javascript"/><img src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/57/000000/bash.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/50/000000/css3.png">
+<img src="https://img.icons8.com/color/50/000000/c-programming.png"/> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/57/000000/java-coffee-cup-logo.png"/><img src="https://img.icons8.com/plasticine/57/000000/bash.png"/> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/50/000000/css3.png">
 <hr>
 
 <!---
