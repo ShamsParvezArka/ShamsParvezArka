@@ -16,7 +16,7 @@ Hi. I’m Shams Parvez Arka, *Competitive programmer*. I’m interested in math 
 
 ## Tools
 <span><img src="https://img.icons8.com/color/48/null/linux--v1.png"/></span>
-<span><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/></span>
+<span><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/gimp.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/blender-3d.png"/></span>
 
