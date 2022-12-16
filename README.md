@@ -2,7 +2,7 @@
 Hi. I’m Shams Parvez Arka, *Competitive programmer*. I’m interested in math & programming.
 > Currently I'm learning Assembly and Linux karnel!
 
-<hr>
+
 ## My languages
 <span><img src="https://img.icons8.com/color/50/000000/c-programming.png"/></span>
 <span><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></span>
@@ -13,14 +13,13 @@ Hi. I’m Shams Parvez Arka, *Competitive programmer*. I’m interested in math 
 <span><img src="https://img.icons8.com/color/48/null/javascript--v1.png"/></span>
 <span><img src="https://img.icons8.com/color/50/000000/html-5--v1.png"></span>
 <span><img src="https://img.icons8.com/color/50/000000/css3.png"></span>
-</hr>
-<hr>
+
 ## Tools
 <span><img src="https://img.icons8.com/color/48/null/linux--v1.png"/></span>
 <span><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/gimp.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/blender-3d.png"/></span>
-</hr>
+
 <!---
 ShamsParvezArka/ShamsParvezArka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
