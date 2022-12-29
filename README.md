@@ -20,6 +20,8 @@ Hi. I’m Shams Parvez Arka, *Competitive programmer*. I’m interested in math 
 <span><img src="https://img.icons8.com/fluency/48/null/gimp.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/blender-3d.png"/></span>
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsParvezArka&show_icons=true&theme=transparent)
 
 <!---
