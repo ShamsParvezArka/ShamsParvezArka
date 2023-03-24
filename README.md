@@ -8,7 +8,7 @@ Hi. I’m Shams Parvez Arka, indie game developer. Interested in reading books &
 
 • 🛠️ Working on my own **arcade game**.
 
-• 📫 E-Mail: parvez6826@gmail.com
+• 📫 Email: parvez6826@gmail.com
 
 ## **Social media**
 
