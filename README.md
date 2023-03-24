@@ -1,18 +1,21 @@
-## **About me**
-Hi. I’m Shams Parvez Arka, indie **game developer**. Interested in reading books & watching anime.
+<h1 align="center">
+    <b>About me</b>
+</h1>
 
-• 🌱 Current learning **LÖVE** game framework & **pixel art**.
+Hi. I’m Shams Parvez Arka, indie game developer. Interested in reading books & watching anime.
+
+• 🌱 Current learning **LÖVE** game framework.
 
 • 🛠️ Working on my own **arcade game**.
 
 • 📫 E-Mail: parvez6826@gmail.com
 
-## Social media
+## **Social media**
 
-<a href='https://www.facebook.com/profile.php?id=100088118585757'> <img style = "width: 30px;" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
+<a href='https://www.facebook.com/profile.php?id=100088118585757'> <img style = "width: 35px;" src="https://img.icons8.com/color/48/null/facebook-new.png"/>
 <a href='https://www.facebook.com/profile.php?id=100088118585757'> <img style = "width: 28px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
 
-## Languages and Tools
+## **Languages and Tools**
 
 <span><img src="https://img.icons8.com/color/50/000000/c-programming.png"/></span>
 <span><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png"/></span>
