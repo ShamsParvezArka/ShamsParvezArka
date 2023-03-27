@@ -25,6 +25,7 @@ Hi. I’m Shams Parvez Arka, indie game developer. Interested in reading books &
 <span><img src="https://img.icons8.com/color/50/000000/html-5--v1.png"></span>
 <span><img src="https://img.icons8.com/color/50/000000/css3.png"></span>
 <span><img src="https://img.icons8.com/color/48/null/linux--v1.png"/></span>
+<span><img src="https://user-images.githubusercontent.com/38325426/227852790-f30c9afb-b2bc-4a9a-b125-5a24a8fc2b52.svg"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/gimp.png"/></span>
 <span><img src="https://img.icons8.com/fluency/48/null/blender-3d.png"/></span>
