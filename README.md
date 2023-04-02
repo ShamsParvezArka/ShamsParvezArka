@@ -4,7 +4,7 @@
 
 Hi. I’m Shams Parvez Arka, indie game developer. Interested in reading books & watching anime.
 
-• 🌱 Current learning **GODOT** game framework.
+• 🌱 Current learning **GODOT** game engine.
 
 • 🛠️ Working on my own **arcade game**.
 
