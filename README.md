@@ -18,6 +18,7 @@ Hi. I’m Shams Parvez Arka, indie game developer. Interested in reading books &
 ## **Languages and Tools**
 
 <span><img src="https://img.icons8.com/color/50/000000/c-programming.png"/></span>
+<span><img src="https://icons8.com/icon/AeV543ttZrcT/rust"/></span>
 <span><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-color-tal-revivo.png"/></span>
 <span><img src="https://img.icons8.com/plasticine/57/000000/bash.png"/></span>
 <span><img src="https://img.icons8.com/color/50/000000/python--v1.png"/></span>
