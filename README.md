@@ -5,7 +5,7 @@ Trained as a software developer.I ofter consider myself as an indie 2D game deve
 - 📖 Studying Computer Science and Engineering (1st year 2nd semister)
 - 🌱 I speak in C++, Lua, Python etc
 - 🛠️ Working on my own C++ libarary 
-- 💬 Talk to me: [Email](parvez6826@gmail.com) | [Facebook](https://www.facebook.com/profile.php?id=100088118585757) 
+- 💬 Talk to me: [Email](mailto:parvez6826@gmail.com) | [Facebook](https://www.facebook.com/profile.php?id=100088118585757) 
 <h2 align="center">
 	<b>Tech stack</b>
 </h1>
